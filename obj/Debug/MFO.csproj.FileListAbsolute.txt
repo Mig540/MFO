@@ -1,0 +1,10 @@
+C:\Users\Mig\source\repos\MFO\MFO\bin\Debug\MFO.exe.config
+C:\Users\Mig\source\repos\MFO\MFO\bin\Debug\MFO.exe
+C:\Users\Mig\source\repos\MFO\MFO\bin\Debug\MFO.pdb
+C:\Users\Mig\source\repos\MFO\MFO\obj\Debug\MFO.csprojAssemblyReference.cache
+C:\Users\Mig\source\repos\MFO\MFO\obj\Debug\MFO.Form1.resources
+C:\Users\Mig\source\repos\MFO\MFO\obj\Debug\MFO.Properties.Resources.resources
+C:\Users\Mig\source\repos\MFO\MFO\obj\Debug\MFO.csproj.GenerateResource.cache
+C:\Users\Mig\source\repos\MFO\MFO\obj\Debug\MFO.csproj.CoreCompileInputs.cache
+C:\Users\Mig\source\repos\MFO\MFO\obj\Debug\MFO.exe
+C:\Users\Mig\source\repos\MFO\MFO\obj\Debug\MFO.pdb
